@@ -1,5 +1,6 @@
 //No need to do any work here.
 //If package.json and the proper modules are installed in the correct location, this should display correctly in the browser.
+// console.log("dfghhgfdfdgh");
 import format from "./node_modules/date-fns/esm/format/index.js";
 
 function displayTime() {
